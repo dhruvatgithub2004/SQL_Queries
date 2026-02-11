@@ -1,0 +1,7 @@
+"employee_id","employee_name","salary","department_id","manager_id"
+101,"Dhruv",12000,1,NULL
+102,"Aisha",9000,2,101
+103,"Rahul",15000,1,101
+104,"Sara",8000,4,102
+105,"Omar",11000,NULL,101
+106,"Zara",7000,3,103
